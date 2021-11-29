@@ -3,6 +3,7 @@
 
 ## Technologies Used
 - Javascript
+- React.js
 - HTML
 - CSS
 
